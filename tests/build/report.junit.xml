@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="src/" tests="9" assertions="9" errors="0" warnings="0" failures="0" skipped="0" time="0.016662">
+    <testsuite name="Starcorp\TechChallange\Tests\MultipleFactoryTest" file="/var/www/starcorp/src/Factories/MultipleFactoryTest.php" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.005074">
+      <testcase name="testCanICreateAMultipleInstanceFromFactory" class="Starcorp\TechChallange\Tests\MultipleFactoryTest" classname="Starcorp.TechChallange.Tests.MultipleFactoryTest" file="/var/www/starcorp/src/Factories/MultipleFactoryTest.php" line="9" assertions="1" time="0.005074"/>
+    </testsuite>
+    <testsuite name="Starcorp\TechChallange\Tests\PrinterFactoryTest" file="/var/www/starcorp/src/Factories/PrinterFactoryTest.php" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.001618">
+      <testcase name="testCanICreateAPrinterInstanceFromFactory" class="Starcorp\TechChallange\Tests\PrinterFactoryTest" classname="Starcorp.TechChallange.Tests.PrinterFactoryTest" file="/var/www/starcorp/src/Factories/PrinterFactoryTest.php" line="9" assertions="1" time="0.001618"/>
+    </testsuite>
+    <testsuite name="Starcorp\TechChallange\Tests\MultipleTest" file="/var/www/starcorp/src/MultipleTest.php" tests="5" assertions="5" errors="0" warnings="0" failures="0" skipped="0" time="0.007372">
+      <testcase name="testCanICreateAMultipleInstance" class="Starcorp\TechChallange\Tests\MultipleTest" classname="Starcorp.TechChallange.Tests.MultipleTest" file="/var/www/starcorp/src/MultipleTest.php" line="11" assertions="1" time="0.001988"/>
+      <testcase name="testCanIGetDivisor3MultipleResponse" class="Starcorp\TechChallange\Tests\MultipleTest" classname="Starcorp.TechChallange.Tests.MultipleTest" file="/var/www/starcorp/src/MultipleTest.php" line="21" assertions="1" time="0.001438"/>
+      <testcase name="testCanIGetDivisor5MultipleResponse" class="Starcorp\TechChallange\Tests\MultipleTest" classname="Starcorp.TechChallange.Tests.MultipleTest" file="/var/www/starcorp/src/MultipleTest.php" line="31" assertions="1" time="0.001300"/>
+      <testcase name="testCanIGetDivisor35MultipleResponse" class="Starcorp\TechChallange\Tests\MultipleTest" classname="Starcorp.TechChallange.Tests.MultipleTest" file="/var/www/starcorp/src/MultipleTest.php" line="41" assertions="1" time="0.001274"/>
+      <testcase name="testCanIGetNoDivisorMultipleResponse" class="Starcorp\TechChallange\Tests\MultipleTest" classname="Starcorp.TechChallange.Tests.MultipleTest" file="/var/www/starcorp/src/MultipleTest.php" line="51" assertions="1" time="0.001372"/>
+    </testsuite>
+    <testsuite name="Starcorp\TechChallange\Tests\PrinterTest" file="/var/www/starcorp/src/PrinterTest.php" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.002598">
+      <testcase name="testCanICreateAPrinterInstance" class="Starcorp\TechChallange\Tests\PrinterTest" classname="Starcorp.TechChallange.Tests.PrinterTest" file="/var/www/starcorp/src/PrinterTest.php" line="11" assertions="1" time="0.001238"/>
+      <testcase name="testCanIPrintASmallRange" class="Starcorp\TechChallange\Tests\PrinterTest" classname="Starcorp.TechChallange.Tests.PrinterTest" file="/var/www/starcorp/src/PrinterTest.php" line="24" assertions="1" time="0.001360"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
