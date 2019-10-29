@@ -15,7 +15,7 @@ Observações:
 Clonar o repositório:
 
 ```
-git clone https://github.com/tnatanael/starcorp.git
+git clone https://github.com/tnatanael/starcorp
 ```
 
 Instalar as dependências
